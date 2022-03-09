@@ -4,4 +4,4 @@ this is a practice thingy thing we are smart
 
 i am editing this file now :)
 
-helloblah
+i'm still trying to break git but i don't think i can we shall see >:))
